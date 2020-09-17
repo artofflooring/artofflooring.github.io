@@ -3,6 +3,7 @@ h2.welcome {
 }
 
 input.welome {
+    font-size: 10rem;
     height: 15rem;
     border: none;
     box-shadow: none;
