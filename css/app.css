@@ -1,11 +1,30 @@
-h2.welcome {
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+.welcome h1 {
   text-align: center;
 }
 
-input.welome {
-    font-size: 10rem;
-    height: 15rem;
-    border: none;
-    box-shadow: none;
-    text-align: center;
+.welcome input {
+  font-size: 6rem;
+  height: 8rem;
+  border: none;
+  box-shadow: none;
+  text-align: center;
+  background: none;
+}
+
+.card-section {
+  text-align: center;
 }
