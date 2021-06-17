@@ -24,6 +24,7 @@
 .sidebar-navigation .logo {
   position: static;
   background: none;
+  height: auto;
 }
 
 .sidebar-navigation nav {
