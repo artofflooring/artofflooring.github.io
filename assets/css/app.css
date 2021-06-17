@@ -1,26 +1,39 @@
-
-video {
-  object-fit: cover;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  left: 0;
+.slider h1 > input[type=text] {
+  border: none;
+  box-shadow: none;
+  background: none;
+  text-align: right;
 }
 
-.logo {
-  margin-top: 20px;
+.slider h2 {
+  color: white;
 }
 
-.welcome h1 {
-  text-align: center;
+.Modern-Slider .item-1 .image {
+    background-image: url(../img/img_2079.2560x0.f315u.jpg);
 }
 
-.welcome input {
-    font-size: 6rem;
-    height: 8rem;
-    border: none;
-    box-shadow: none;
-    text-align: center;
-    background: none;
+.sidebar-navigation {
+  background: rgba(162,25,41,0.9);
+}
+
+.sidebar-navigation .logo a {
+  border: none;
+}
+
+.sidebar-navigation .logo {
+  position: static;
+  background: none;
+}
+
+.section-heading em {
+  color: #a21929;
+}
+
+#featured .item .image .featured-button a {
+  background-color: #a21929;
+}
+
+#featured .owl-dots .active span {
+    background-color: #a21929!important;
 }
