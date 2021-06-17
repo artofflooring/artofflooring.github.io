@@ -26,6 +26,10 @@
   background: none;
 }
 
+.sidebar-navigation nav {
+  top: 50%;
+}
+
 .section-heading em {
   color: #a21929;
 }
