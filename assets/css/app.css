@@ -42,3 +42,13 @@
 #featured .owl-dots .active span {
     background-color: #a21929!important;
 }
+
+#contact-content > div.white-button.button.book-survey > a {
+  margin-top: 40px;
+  color: #a21929;
+}
+
+#contact-content > div.white-button.button.book-survey > a:hover {
+  color: white;
+  background: #a21929;
+}
