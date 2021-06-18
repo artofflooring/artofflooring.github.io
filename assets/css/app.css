@@ -10,7 +10,19 @@
 }
 
 .Modern-Slider .item-1 .image {
-    background-image: url(../img/img_2079.2560x0.f315u.jpg);
+    background-image: url(../img/wood-plank.jpg);
+}
+.Modern-Slider .item-2 .image {
+    background-image: url(../img/carpet-1.jpg);
+}
+.Modern-Slider .item-3 .image {
+    background-image: url(../img/luxury-vinyl.jpg);
+}
+.Modern-Slider .item-4 .image {
+    background-image: url(../img/flatweave.jpg);
+}
+.Modern-Slider .item-5 .image {
+    background-image: url(../img/wood-herringbone-1.jpg);
 }
 
 .sidebar-navigation {
@@ -37,6 +49,10 @@
 
 #featured .item .image .featured-button a {
   background-color: #a21929;
+}
+
+#featured .owl-nav span:hover {
+    background-color: #a21929;
 }
 
 #featured .owl-dots .active span {
