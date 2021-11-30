@@ -11,6 +11,9 @@
   color: white;
 }
 
+.Modern-Slider .item-christmas .image {
+    background-image: url(../img/christmas-background.jpg);
+}
 .Modern-Slider .item-1 .image {
     background-image: url(../img/wood-plank.jpg);
 }
