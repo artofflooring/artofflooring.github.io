@@ -35,7 +35,8 @@
 
 
 .sidebar-navigation {
-  background: rgba(162,25,41,0.9);
+  /*background: rgba(162,25,41,0.9);*/
+  background: color: #333;
 }
 
 .sidebar-navigation .logo a {
