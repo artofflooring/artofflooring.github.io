@@ -38,8 +38,8 @@
 
 
 .sidebar-navigation {
-  /*background: rgba(162,25,41,0.9);*/
-  background: #444545;
+  background: rgba(162,25,41,0.9);
+  /*background: #444545; /*Christmas*/
 }
 
 .sidebar-navigation .logo a {
